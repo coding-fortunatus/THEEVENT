@@ -6,13 +6,17 @@
 
         <div id="logo" class="me-auto">
             <!-- Uncomment below if you prefer to use a text logo -->
-            <h1><a href="index.html">SP<span>AS</span></a></h1>
-            <!-- <a href="index.html" class="scrollto"><img src="https://applications.federalpolyilaro.edu.ng/Content/Images/school_logo.jpg" alt="" title=""></a> -->
+            <!-- <a href="index.php" class="scrollto"><img
+                    src="https://applications.federalpolyilaro.edu.ng/Content/Images/school_logo.jpg" alt="" title="">
+            </a> -->
+            <h1><a href="index.php">SP<span>AS</span></a></h1>
+
+
         </div>
 
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-                <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+                <li><a class="nav-link scrollto" href="index.php">Home</a></li>
                 <li><a class="nav-link scrollto" href="#about">About</a></li>
                 <li><a class="nav-link scrollto" href="#speakers">Speakers</a></li>
                 <li><a class="nav-link scrollto" href="#supporters">Sponsors</a></li>
@@ -439,7 +443,7 @@
                     <div class="row justify-content-center">
                         <div class="col-11 col-lg-8 position-relative">
                             <h3>Federal Polytechnic Ilaro, Ogun State</h3>
-                            <p>Find out what life really like at The Federal Polytechnic Ilaro from our students and
+                            <p>Find out what life really is like at The Federal Polytechnic Ilaro from our students and
                                 graduates. Get to know about their student experience and how they have personally and
                                 professionally grown to prepare for a successful future.</p>
                         </div>
@@ -491,7 +495,7 @@
     </section><!-- End Venue Section -->
 
     <!-- ======= Hotels Section ======= -->
-    <section id="hotels" class="section-with-bg">
+    <!-- <section id="hotels" class="section-with-bg">
 
         <div class="container" data-aos="fade-up">
             <div class="section-header">
@@ -554,7 +558,8 @@
             </div>
         </div>
 
-    </section><!-- End Hotels Section -->
+    </section> -->
+    <!-- End Hotels Section -->
 
     <!-- ======= Supporters Section ======= -->
     <section id="supporters" class="section-with-bg">
@@ -618,10 +623,11 @@
 
         </div>
 
-    </section><!-- End Sponsors Section -->
+    </section>
+    <!-- End Sponsors Section -->
 
     <!-- =======  F.A.Q Section ======= -->
-    <section id="faq">
+    <!-- <section id="faq">
 
         <div class="container" data-aos="fade-up">
 
@@ -728,14 +734,16 @@
 
         </div>
 
-    </section><!-- End  F.A.Q Section -->
+    </section> -->
+    <!-- End  F.A.Q Section -->
 
     <!-- ======= Subscribe Section ======= -->
     <section id="subscribe">
         <div class="container" data-aos="zoom-in">
             <div class="section-header">
                 <h2>Newsletter</h2>
-                <p>Rerum numquam illum recusandae quia mollitia consequatur.</p>
+                <p>If you wish to be part of our monthly new letter and recieve additional update concerning our events,
+                    kindly supply your email address below.</p>
             </div>
 
             <form method="POST" action="#">
