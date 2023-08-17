@@ -6,10 +6,9 @@
 
         <div id="logo" class="me-auto">
             <!-- Uncomment below if you prefer to use a text logo -->
-            <!-- <a href="index.php" class="scrollto"><img
-                    src="https://applications.federalpolyilaro.edu.ng/Content/Images/school_logo.jpg" alt="" title="">
-            </a> -->
-            <h1><a href="index.php">SP<span>AS</span></a></h1>
+            <a href="index.php" class="rounded"><img src="./assets/img/logo.jpeg" alt="SPAS logo" title="">
+            </a>
+            <!-- <h1><a href="index.php">SP<span>AS</span></a></h1> -->
 
 
         </div>
@@ -61,11 +60,10 @@
             <div class="row">
                 <div class="col-lg-6">
                     <h2>About The Conference</h2>
-                    <p>Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius
-                        aut
-                        accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt
-                        inventore in
-                        est ut optio sequi unde.</p>
+                    <p>Sustaining 21st-century scientific and technological innovations is pivotal for industrial and
+                        economic growth. Ongoing investment in R&D, interdisciplinary collaboration, and ethical
+                        deployment of breakthroughs will foster competitiveness, address global challenges, and ensure a
+                        prosperous, sustainable future.</p>
                 </div>
                 <div class="col-lg-3">
                     <h3>Where</h3>
@@ -90,7 +88,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-                        <img src="assets/img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
+                        <img src="assets/img/speakers/rector.jpeg" alt="Speaker 1" class="img-fluid">
                         <div class="details">
                             <h3><a href="https://www.federalpolyilaro.edu.ng/administration/rector" target="_blank">Dr.
                                     M.A. Akinde</a>
@@ -104,7 +102,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-                        <img src="assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
+                        <img src="assets/img/speakers/dean.jpeg" alt="Speaker 2" class="img-fluid">
                         <div class="details">
                             <h3><a href="https://federalpolyilaro.edu.ng/school/school-of-pure-and-applied-sciences"
                                     target="_blank">Mr.
@@ -118,7 +116,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-                        <img src="assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
+                        <img src="assets/img/speakers/prof.jpeg" alt="Speaker 3" class="img-fluid">
                         <div class="details">
                             <h3><a href="" target="_blank">Prof. Z.O. Omogbadegun</a></h3>
                             <p>Augustine Univerity, Ilaro-Epe,<br>Lagos.</p>
@@ -130,7 +128,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-                        <img src="assets/img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
+                        <img src="assets/img/speakers/Dr.jpeg" alt="Speaker 4" class="img-fluid">
                         <div class="details">
                             <h3><a href="https://www.linkedin.com/in/dr-omowunmi-kolawole-joseph-66b09540/"
                                     target="_blank">Dr. O.S. Kolawo-Joseph</a></h3>
@@ -478,12 +476,12 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="card mb-5 mb-lg-0">
                         <div class="card-body">
-                            <h5 class="card-title text-muted text-uppercase text-center">Registration Fee:</h5>
-                            <h6 class="card-price text-center">₦50,000</h6>
+                            <h5 class="card-title text-muted text-uppercase text-center">Local Registration Fee:</h5>
+                            <h6 class="card-price text-center">₦7,500</h6>
                             <hr>
 
                             <h4 class="fa-li"><i class="fa fa-check"></i>Bank Details</h4>
-                            <h6 class="fa-li"><i class="fa fa-check"></i>United Bank of Africa (UBA)</h6>
+                            <h6 class="fa-li"><i class="fa fa-check"></i>United Bank for Africa (UBA)</h6>
                             <h6 class="fa-li"><i class="fa fa-check"></i>SPAS Conference
                                 Account</h6>
                             <h6 class="fa-li"><i class="fa fa-check"></i>2060220295</h6>
@@ -494,28 +492,13 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="card mb-5 mb-lg-0">
                         <div class="card-body">
-                            <h5 class="card-title text-muted text-uppercase text-center">Registration Fee:</h5>
-                            <h6 class="card-price text-center">$75</h6>
+                            <h5 class="card-title text-muted text-uppercase text-center">International Registration Fee:
+                            </h5>
+                            <h6 class="card-price text-center">$20</h6>
                             <hr>
 
                             <h4 class="fa-li"><i class="fa fa-check"></i>Bank Details</h4>
-                            <h6 class="fa-li"><i class="fa fa-check"></i>United Bank of Africa (UBA)</h6>
-                            <h6 class="fa-li"><i class="fa fa-check"></i>SPAS Conference
-                                Account</h6>
-                            <h6 class="fa-li"><i class="fa fa-check"></i>2060220295</h6>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-                    <div class="card mb-5 mb-lg-0">
-                        <div class="card-body">
-                            <h5 class="card-title text-muted text-uppercase text-center">Registration Fee:</h5>
-                            <h6 class="card-price text-center">€500</h6>
-                            <hr>
-
-                            <h4 class="fa-li"><i class="fa fa-check"></i>Bank Details</h4>
-                            <h6 class="fa-li"><i class="fa fa-check"></i>United Bank of Africa (UBA)</h6>
+                            <h6 class="fa-li"><i class="fa fa-check"></i>United Bank for Africa (UBA)</h6>
                             <h6 class="fa-li"><i class="fa fa-check"></i>SPAS Conference
                                 Account</h6>
                             <h6 class="fa-li"><i class="fa fa-check"></i>2060220295</h6>
